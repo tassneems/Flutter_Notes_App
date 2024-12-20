@@ -21,14 +21,4 @@ To run this app on your local machine, follow these steps:
 ```bash
 git clone https://github.com/your-username/Flutter_Notes_App.git
 
-2. Install Flutter
-Ensure that you have Flutter installed on your system. If not, follow the instructions at Flutter Install Guide.
-
-3. Run the app
-Navigate to the project directory and run:
-
-bash
-Copy code
-flutter run
-Screenshots
  
