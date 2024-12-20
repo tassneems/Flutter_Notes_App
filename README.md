@@ -13,12 +13,36 @@ A simple Notes application built using Flutter, featuring user authentication (l
 - **Flutter**: For building the cross-platform mobile app.
 - **Dart**: Programming language used for Flutter development.
 
+## Screenshots
+
+![Screenshot 2024-12-20 232631](https://github.com/user-attachments/assets/c767eb08-3de9-4064-8a9a-cc1ecc2ddf73)
+
+
+![Screenshot 2024-12-20 232841](https://github.com/user-attachments/assets/0c6aad3d-2c11-4e9e-bbbf-219c19970c97)
+
 ## Installation
 
 To run this app on your local machine, follow these steps:
 
-### 1. Clone the repository
+1. Clone the repository
+2. Install Flutter
+Ensure that you have Flutter installed on your system. If not, follow the instructions at the official Flutter Install Guide to install Flutter.
+3. Install Dependencies
+After cloning the repository, navigate to the project folder and run the following command to install the required dependencies:
+
+
+     ```flutter pub get```
+
+4. Run the app
+Navigate to the project directory and run the app on an emulator or connected device:
+
+     ```flutter run```
+
+Make sure your device or emulator is set up and ready to run Flutter apps.
+
+###  Clone the repository
 ```bash
 git clone https://github.com/your-username/Flutter_Notes_App.git
 
- 
+
+
