@@ -20,6 +20,9 @@ A simple Notes application built using Flutter, featuring user authentication (l
 
 ![Screenshot 2024-12-20 232841](https://github.com/user-attachments/assets/0c6aad3d-2c11-4e9e-bbbf-219c19970c97)
 
+![WhatsApp Image 2024-12-21 at 00 33 18_56f914fc](https://github.com/user-attachments/assets/462b55e6-9591-44c1-a24c-231a50ad8bbe)
+
+
 ## Installation
 
 To run this app on your local machine, follow these steps:
